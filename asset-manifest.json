@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/simple-react-website/static/css/main.c341f683.chunk.css",
+    "main.js": "/simple-react-website/static/js/main.bd20fb29.chunk.js",
+    "main.js.map": "/simple-react-website/static/js/main.bd20fb29.chunk.js.map",
+    "runtime-main.js": "/simple-react-website/static/js/runtime-main.1b1c35db.js",
+    "runtime-main.js.map": "/simple-react-website/static/js/runtime-main.1b1c35db.js.map",
+    "static/js/2.8706a7b1.chunk.js": "/simple-react-website/static/js/2.8706a7b1.chunk.js",
+    "static/js/2.8706a7b1.chunk.js.map": "/simple-react-website/static/js/2.8706a7b1.chunk.js.map",
+    "index.html": "/simple-react-website/index.html",
+    "precache-manifest.2ad703bf482eb1e27b334fc8fd6c8718.js": "/simple-react-website/precache-manifest.2ad703bf482eb1e27b334fc8fd6c8718.js",
+    "service-worker.js": "/simple-react-website/service-worker.js",
+    "static/css/main.c341f683.chunk.css.map": "/simple-react-website/static/css/main.c341f683.chunk.css.map",
+    "static/js/2.8706a7b1.chunk.js.LICENSE.txt": "/simple-react-website/static/js/2.8706a7b1.chunk.js.LICENSE.txt",
+    "static/media/ClubLogo.png": "/simple-react-website/static/media/ClubLogo.83c07097.png",
+    "static/media/gela.jpg": "/simple-react-website/static/media/gela.48200817.jpg",
+    "static/media/janvi.jpg": "/simple-react-website/static/media/janvi.99b5a126.jpg",
+    "static/media/seanchok.jpg": "/simple-react-website/static/media/seanchok.da7f7f45.jpg",
+    "static/media/siddhant.jpg": "/simple-react-website/static/media/siddhant.42702f86.jpg",
+    "static/media/welvin.jpg": "/simple-react-website/static/media/welvin.71c2bd6e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b1c35db.js",
+    "static/js/2.8706a7b1.chunk.js",
+    "static/css/main.c341f683.chunk.css",
+    "static/js/main.bd20fb29.chunk.js"
+  ]
+}
