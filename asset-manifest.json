@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "/simple-react-website/static/css/main.55f494ef.chunk.css",
-    "main.js": "/simple-react-website/static/js/main.debb489b.chunk.js",
-    "main.js.map": "/simple-react-website/static/js/main.debb489b.chunk.js.map",
+    "main.css": "/simple-react-website/static/css/main.6149283c.chunk.css",
+    "main.js": "/simple-react-website/static/js/main.d30e708e.chunk.js",
+    "main.js.map": "/simple-react-website/static/js/main.d30e708e.chunk.js.map",
     "runtime-main.js": "/simple-react-website/static/js/runtime-main.1b1c35db.js",
     "runtime-main.js.map": "/simple-react-website/static/js/runtime-main.1b1c35db.js.map",
     "static/js/2.c15c554d.chunk.js": "/simple-react-website/static/js/2.c15c554d.chunk.js",
     "static/js/2.c15c554d.chunk.js.map": "/simple-react-website/static/js/2.c15c554d.chunk.js.map",
     "index.html": "/simple-react-website/index.html",
-    "precache-manifest.5db78902b9813c109489ab5d52d19192.js": "/simple-react-website/precache-manifest.5db78902b9813c109489ab5d52d19192.js",
+    "precache-manifest.45761b317d424a833abfa587be6818fe.js": "/simple-react-website/precache-manifest.45761b317d424a833abfa587be6818fe.js",
     "service-worker.js": "/simple-react-website/service-worker.js",
-    "static/css/main.55f494ef.chunk.css.map": "/simple-react-website/static/css/main.55f494ef.chunk.css.map",
+    "static/css/main.6149283c.chunk.css.map": "/simple-react-website/static/css/main.6149283c.chunk.css.map",
     "static/js/2.c15c554d.chunk.js.LICENSE.txt": "/simple-react-website/static/js/2.c15c554d.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/simple-react-website/static/media/1.ec243b7e.jpg",
     "static/media/ClubLogo.png": "/simple-react-website/static/media/ClubLogo.83c07097.png",
+    "static/media/backgrounimg.jpg": "/simple-react-website/static/media/backgrounimg.2ac1bb3c.jpg",
     "static/media/gela.jpg": "/simple-react-website/static/media/gela.48200817.jpg",
     "static/media/janvi.jpg": "/simple-react-website/static/media/janvi.99b5a126.jpg",
     "static/media/owl.jpg": "/simple-react-website/static/media/owl.0d36e83a.jpg",
@@ -24,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.1b1c35db.js",
     "static/js/2.c15c554d.chunk.js",
-    "static/css/main.55f494ef.chunk.css",
-    "static/js/main.debb489b.chunk.js"
+    "static/css/main.6149283c.chunk.css",
+    "static/js/main.d30e708e.chunk.js"
   ]
 }

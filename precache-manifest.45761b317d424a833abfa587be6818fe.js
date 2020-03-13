@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9b3f87b54b8562db5f5700dd3dadbcea",
+    "revision": "28703eba002e32f182c1c2502707939b",
     "url": "/simple-react-website/index.html"
   },
   {
-    "revision": "3370aa8a22e29e016f05",
-    "url": "/simple-react-website/static/css/main.55f494ef.chunk.css"
+    "revision": "da878369fbd3a26de5b6",
+    "url": "/simple-react-website/static/css/main.6149283c.chunk.css"
   },
   {
     "revision": "7f52b88df7f14d611f8e",
@@ -16,16 +16,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/simple-react-website/static/js/2.c15c554d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3370aa8a22e29e016f05",
-    "url": "/simple-react-website/static/js/main.debb489b.chunk.js"
+    "revision": "da878369fbd3a26de5b6",
+    "url": "/simple-react-website/static/js/main.d30e708e.chunk.js"
   },
   {
     "revision": "68617b96d8e92cb6f651",
     "url": "/simple-react-website/static/js/runtime-main.1b1c35db.js"
   },
   {
+    "revision": "ec243b7e54262969f384d7cea259e32f",
+    "url": "/simple-react-website/static/media/1.ec243b7e.jpg"
+  },
+  {
     "revision": "83c070978ca8c25b115cc2b20c76c5d4",
     "url": "/simple-react-website/static/media/ClubLogo.83c07097.png"
+  },
+  {
+    "revision": "2ac1bb3cf3b484d345c1d1b6dca184d6",
+    "url": "/simple-react-website/static/media/backgrounimg.2ac1bb3c.jpg"
   },
   {
     "revision": "48200817cffeb3b7eecff08772b1b8eb",
