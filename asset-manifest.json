@@ -1,32 +1,32 @@
 {
   "files": {
-    "main.css": "/simple-react-website/static/css/main.f1d3eef1.chunk.css",
-    "main.js": "/simple-react-website/static/js/main.26b1fdc5.chunk.js",
-    "main.js.map": "/simple-react-website/static/js/main.26b1fdc5.chunk.js.map",
+    "main.css": "/simple-react-website/static/css/main.54d6adc7.chunk.css",
+    "main.js": "/simple-react-website/static/js/main.d30723ff.chunk.js",
+    "main.js.map": "/simple-react-website/static/js/main.d30723ff.chunk.js.map",
     "runtime-main.js": "/simple-react-website/static/js/runtime-main.1b1c35db.js",
     "runtime-main.js.map": "/simple-react-website/static/js/runtime-main.1b1c35db.js.map",
-    "static/js/2.d9b37400.chunk.js": "/simple-react-website/static/js/2.d9b37400.chunk.js",
-    "static/js/2.d9b37400.chunk.js.map": "/simple-react-website/static/js/2.d9b37400.chunk.js.map",
+    "static/js/2.53ff6f9c.chunk.js": "/simple-react-website/static/js/2.53ff6f9c.chunk.js",
+    "static/js/2.53ff6f9c.chunk.js.map": "/simple-react-website/static/js/2.53ff6f9c.chunk.js.map",
     "index.html": "/simple-react-website/index.html",
-    "precache-manifest.1b5ea6944f2b12c985a6b3c2b7f53c68.js": "/simple-react-website/precache-manifest.1b5ea6944f2b12c985a6b3c2b7f53c68.js",
+    "precache-manifest.4580ba14d9c2dfe75ed5d0220d9994be.js": "/simple-react-website/precache-manifest.4580ba14d9c2dfe75ed5d0220d9994be.js",
     "service-worker.js": "/simple-react-website/service-worker.js",
-    "static/css/main.f1d3eef1.chunk.css.map": "/simple-react-website/static/css/main.f1d3eef1.chunk.css.map",
-    "static/js/2.d9b37400.chunk.js.LICENSE.txt": "/simple-react-website/static/js/2.d9b37400.chunk.js.LICENSE.txt",
+    "static/css/main.54d6adc7.chunk.css.map": "/simple-react-website/static/css/main.54d6adc7.chunk.css.map",
+    "static/js/2.53ff6f9c.chunk.js.LICENSE.txt": "/simple-react-website/static/js/2.53ff6f9c.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/simple-react-website/static/media/1.ec243b7e.jpg",
     "static/media/ClubLogo.png": "/simple-react-website/static/media/ClubLogo.83c07097.png",
     "static/media/backgrounimg.jpg": "/simple-react-website/static/media/backgrounimg.2ac1bb3c.jpg",
     "static/media/gela.jpg": "/simple-react-website/static/media/gela.48200817.jpg",
     "static/media/janvi.jpg": "/simple-react-website/static/media/janvi.99b5a126.jpg",
-    "static/media/owl.jpg": "/simple-react-website/static/media/owl.0d36e83a.jpg",
+    "static/media/owl.png": "/simple-react-website/static/media/owl.e4797bb7.png",
     "static/media/seanchok.jpg": "/simple-react-website/static/media/seanchok.da7f7f45.jpg",
     "static/media/siddhant.jpg": "/simple-react-website/static/media/siddhant.42702f86.jpg",
-    "static/media/sls.jpg": "/simple-react-website/static/media/sls.093a65f6.jpg",
+    "static/media/sls.png": "/simple-react-website/static/media/sls.000429b6.png",
     "static/media/welvin.jpg": "/simple-react-website/static/media/welvin.71c2bd6e.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.1b1c35db.js",
-    "static/js/2.d9b37400.chunk.js",
-    "static/css/main.f1d3eef1.chunk.css",
-    "static/js/main.26b1fdc5.chunk.js"
+    "static/js/2.53ff6f9c.chunk.js",
+    "static/css/main.54d6adc7.chunk.css",
+    "static/js/main.d30723ff.chunk.js"
   ]
 }

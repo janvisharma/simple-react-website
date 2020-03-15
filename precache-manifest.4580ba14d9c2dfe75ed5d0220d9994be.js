@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "39b01b0a8e1024c0b5ef4dc4ea209f60",
+    "revision": "48f53b84377e5038f321dde75570e9e1",
     "url": "/simple-react-website/index.html"
   },
   {
-    "revision": "9d85c8f0af66323f9ea8",
-    "url": "/simple-react-website/static/css/main.f1d3eef1.chunk.css"
+    "revision": "ea8a18eef26a91146757",
+    "url": "/simple-react-website/static/css/main.54d6adc7.chunk.css"
   },
   {
-    "revision": "4ca975c8f4d3aa5bd9ee",
-    "url": "/simple-react-website/static/js/2.d9b37400.chunk.js"
+    "revision": "6e5460253561671c36ce",
+    "url": "/simple-react-website/static/js/2.53ff6f9c.chunk.js"
   },
   {
     "revision": "5356fa2f66e46e6c05e4cbe319ac7f1d",
-    "url": "/simple-react-website/static/js/2.d9b37400.chunk.js.LICENSE.txt"
+    "url": "/simple-react-website/static/js/2.53ff6f9c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9d85c8f0af66323f9ea8",
-    "url": "/simple-react-website/static/js/main.26b1fdc5.chunk.js"
+    "revision": "ea8a18eef26a91146757",
+    "url": "/simple-react-website/static/js/main.d30723ff.chunk.js"
   },
   {
     "revision": "68617b96d8e92cb6f651",
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/simple-react-website/static/media/janvi.99b5a126.jpg"
   },
   {
-    "revision": "0d36e83a8252807b20164fb71dd18b78",
-    "url": "/simple-react-website/static/media/owl.0d36e83a.jpg"
+    "revision": "e4797bb7396c3dceaac4bf8af4d08ba8",
+    "url": "/simple-react-website/static/media/owl.e4797bb7.png"
   },
   {
     "revision": "da7f7f45ca9763c7738defc8792637d8",
@@ -56,8 +56,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/simple-react-website/static/media/siddhant.42702f86.jpg"
   },
   {
-    "revision": "093a65f6be644563e35710e68bc4fc32",
-    "url": "/simple-react-website/static/media/sls.093a65f6.jpg"
+    "revision": "000429b6a1f9a5f00673d648e9a52160",
+    "url": "/simple-react-website/static/media/sls.000429b6.png"
   },
   {
     "revision": "71c2bd6ee5ac657c88339244b0e8539f",
