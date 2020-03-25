@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/simple-react-website/static/css/main.7683a652.chunk.css",
+    "main.css": "/simple-react-website/static/css/main.1ae8bb92.chunk.css",
     "main.js": "/simple-react-website/static/js/main.5915df21.chunk.js",
     "main.js.map": "/simple-react-website/static/js/main.5915df21.chunk.js.map",
     "runtime-main.js": "/simple-react-website/static/js/runtime-main.1b1c35db.js",
@@ -8,9 +8,9 @@
     "static/js/2.53ff6f9c.chunk.js": "/simple-react-website/static/js/2.53ff6f9c.chunk.js",
     "static/js/2.53ff6f9c.chunk.js.map": "/simple-react-website/static/js/2.53ff6f9c.chunk.js.map",
     "index.html": "/simple-react-website/index.html",
-    "precache-manifest.d7520d2653e464b023ed65758b220020.js": "/simple-react-website/precache-manifest.d7520d2653e464b023ed65758b220020.js",
+    "precache-manifest.957b95c86a9836a73f0d554879a34a3d.js": "/simple-react-website/precache-manifest.957b95c86a9836a73f0d554879a34a3d.js",
     "service-worker.js": "/simple-react-website/service-worker.js",
-    "static/css/main.7683a652.chunk.css.map": "/simple-react-website/static/css/main.7683a652.chunk.css.map",
+    "static/css/main.1ae8bb92.chunk.css.map": "/simple-react-website/static/css/main.1ae8bb92.chunk.css.map",
     "static/js/2.53ff6f9c.chunk.js.LICENSE.txt": "/simple-react-website/static/js/2.53ff6f9c.chunk.js.LICENSE.txt",
     "static/media/1.jpg": "/simple-react-website/static/media/1.ec243b7e.jpg",
     "static/media/ClubLogo.png": "/simple-react-website/static/media/ClubLogo.83c07097.png",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.1b1c35db.js",
     "static/js/2.53ff6f9c.chunk.js",
-    "static/css/main.7683a652.chunk.css",
+    "static/css/main.1ae8bb92.chunk.css",
     "static/js/main.5915df21.chunk.js"
   ]
 }
